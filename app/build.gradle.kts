@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.mariods.tablerocaa"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.mariods.tablerocaa"
